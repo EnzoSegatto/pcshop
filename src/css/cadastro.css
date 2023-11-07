@@ -1,0 +1,38 @@
+/* Adicione este código ao seu arquivo CSS (cadastro.css) */
+.cadastro {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-right: 10px;
+  }
+  
+  .button-group {
+    text-align: right;
+  }
+  
